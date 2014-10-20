@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a new route for code development. At the point a branch is made, the changes made in that branch do not affect the master branch until a merge. It is useful for developing new ideas, and testing new concepts without disrupting work on the master branch. 
