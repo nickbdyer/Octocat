@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is used to completely copy a repository. This can be done for a remote or local repository. 
