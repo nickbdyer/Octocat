@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is typically used as a central repository where multiple people can work from by pulling and pushing information. Typically the upstream repo is stored on a cloud server like GitHub or a centralised server. 
