@@ -1,1 +1,3 @@
-The upstream remote is typically used as a central repository where multiple people can work from by pulling and pushing information. Typically the upstream repo is stored on a cloud server like GitHub or a centralised server. 
+The upstream remote is typically used as a central repository where multiple people can work from by pulling and pushing information. Typically the upstream repo is stored on a cloud server like GitHub or a centralised server.
+
+Setting a repo as "upstream" is often used with Forked repos. The upstream is the original file. The 'origin' is your forked clone of the file. When setting the upstream, you are able to 'fetch' updates on the upstream to your local repo and push to your origin. 
